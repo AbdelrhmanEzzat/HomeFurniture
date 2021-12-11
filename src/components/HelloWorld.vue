@@ -4,7 +4,7 @@
     <MDBNavbarBrand href="#">
       <img
         src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.png"
-        height="30"
+        height="40"
         alt=""
         loading="lazy"
       />
@@ -98,11 +98,8 @@ export default {
   top: 8%;
   left: 90%;
   border-radius: 4px;
-  /* padding: 1px 5px; */
 }
-/* ul {
-  padding-left: 5px;
-} */
+
 .Section {
   width: 40%;
   position: absolute;
