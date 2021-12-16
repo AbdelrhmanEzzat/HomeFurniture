@@ -47,7 +47,9 @@
             </MDBNavbarItem>
             <MDBNavbarItem to="#" class="me-2 me-lg-4"> Sale </MDBNavbarItem>
             <MDBNavbarItem to="#" class="me-2 me-lg-4"> Pages </MDBNavbarItem>
-            <MDBNavbarItem to="#" class="me-2 me-lg-4"> Blog </MDBNavbarItem>
+            <MDBNavbarItem to="./About" class="me-2 me-lg-4">
+              Blog
+            </MDBNavbarItem>
             <MDBNavbarItem to="#" class="me-2 me-lg-4">
               Elements
             </MDBNavbarItem>
