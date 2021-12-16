@@ -1,14 +1,16 @@
 <template>
   <HelloWorld />
+  <!-- <Signin /> -->
 </template>
 
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
-
+// import Signin from "./components/Signin.vue";
 export default {
   name: "App",
   components: {
     HelloWorld,
+    // Signin,
   },
 };
 </script>
